@@ -19,10 +19,15 @@ These are some of the base extensions I use. There will be more that I would rec
 
 #### Advanced Shortcuts
 
+In order of most used to least used.
+
 | Description | Usage |
 | -- | -- | 
+| Navigate editor tabs | `Alt-Cmd-→/←` |
+| Terminal | ``Ctrl-` `` |
+| Move file to a split editor | `Ctrl+Cmd+→/←` |
+| Focus on a split editor | `CMD-1`, `CMD-2`, etc |
 | Multi-line Edit | Select Multiple Lines<br/>`Alt-Shift-I` |
-| Terminal | ``Ctrl-` ``
 
 #### HOK
 
