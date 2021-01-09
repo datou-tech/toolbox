@@ -22,6 +22,7 @@ These are some of the base extensions I use. There will be more that I would rec
 | Description | Usage |
 | -- | -- | 
 | Multi-line Edit | Select Multiple Lines<br/>`Alt-Shift-I` |
+| Terminal | ``Ctrl-` ``
 
 #### HOK
 
