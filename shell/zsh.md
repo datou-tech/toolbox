@@ -31,3 +31,5 @@ These are the most commonly used environment configurations I use. Most of them 
 | Edit my bash_profile | `alias envedit='vi ~/.bash_profile'` |
 | Refresh my bash_profile | `alias envref='source ~/.bash_profile'` |
 | Open application with parameter | `alias code='open -a Visual\ Studio\ Code.app'` |
+
+NOTE: copy/paste is slow - add [this](https://github.com/zsh-users/zsh-autosuggestions/issues/238) to the ~/.zshrc
